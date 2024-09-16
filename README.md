@@ -1,98 +1,65 @@
+# Global Sales and Profit Dashboard
 
-# Blinkit Dashboard
+## Introduction
 
-Welcome to the **Blinkit Dashboard**! This project is designed to track and visualize important metrics like sales, outlet performance, and product details for Blinkit, India's go-to app for last-minute needs. With this dashboard, you can dive deep into how different stores and product categories are performing, all at a glance.
+Welcome to the Global Sales and Profit Dashboard, a Power BI project designed to provide a comprehensive overview of sales, revenue, and profitability across various regions and countries. The dashboard also enables users to explore the distribution of sales between online and offline channels, offering critical insights into market performance and sales mode trends.
 
 ## Key Features
 
-### 1. **Overview of Important Metrics**
-   - **Total Sales**: We've hit $1M in total sales!
-   - **Average Sales per Outlet**: Each outlet makes an average of $141.
-   - **Total Number of Items Sold**: A whopping 8,523 items have been sold.
-   - **Average Customer Rating**: We're doing pretty well with a 3.9/5 rating.
+1. **Overall Financial Metrics**
 
-### 2. **Timeline of Outlet Establishment**
-   - This section shows how many outlets we’ve established from 2012 to 2022. The peak year? 2018 with 1,463 new outlets!
+   - **Total Revenue:** $137.35M
+   - **Total Cost:** $93.18M
+   - **Total Profit:** $44.17M
+   - **Total Sales:** 100 transactions
 
-### 3. **Performance by Outlet Location**
-   - We’ve split the outlets into three tiers:
-     - **Tier 3** is killing it with $472.13K in sales.
-     - **Tier 2** follows with $393.15K.
-     - **Tier 1** isn’t far behind with $336.40K.
+2. **Top 3 Profitable Countries**
 
-### 4. **Outlet Size Breakdown**
-   - Outlets are categorized by size:
-     - **Medium**: Leading with 507.9K in sales.
-     - **Small**: Close behind with 444.79K in sales.
-     - **High**: 248.9K in sales.
+   - **Djibouti:** $2.425M in profits
+   - **Myanmar:** $1.803M in profits
+   - **Pakistan:** $1.720M in profits
 
-### 5. **Item Categories**
-   - You can see how various item categories are doing, including:
-     - **Fruits & Vegetables**: Sold 1,232 items.
-     - **Snacks**: 1,200 items sold.
-     - **Household Items**: 910 items sold.
-     - There are also insights for categories like Frozen Food, Dairy, Canned Goods, and more.
+3. **Least Profitable Countries**
 
-### 6. **Fat Content Analysis**
-   - Ever wonder how many low-fat vs regular fat items are sold? This dashboard has that covered too:
-     - **Low Fat**: 3K items sold.
-     - **Regular Fat**: 9K items sold.
+   - **Kyrgyzstan:** $7.8K in profits
+   - **New Zealand:** $5.3K in profits
+   - **Kuwait:** $1.3K in profits
 
-### 7. **Outlet Type Performance**
-   - We track how different outlet types are performing:
-     - **Grocery Stores**: $1.51M in sales.
-     - **Supermarket Type 1**: $7.87M in sales.
-     - **Supermarket Type 2**: $1.34M in sales.
-     - **Supermarket Type 3**: $1.30M in sales.
+4. **Top 3 Revenue by Region**
 
-### 8. **Filtering Options**
-   - The dashboard has slicers (filters) that let you narrow down the data by:
-     - **Outlet Location**
-     - **Outlet Size**
-     - **Item Type**
+   - **Sub-Saharan Africa:** $39.67M
+   - **Europe:** $33.369M
+   - **Asia:** $21.347M
 
-![image](https://github.com/user-attachments/assets/db1dddd7-a135-4bcd-8051-ead4d36d7089)
-![image](https://github.com/user-attachments/assets/ed7580cb-7315-48d5-872a-36e9c5bf8990)
+5. **Sales Mode Analysis**
 
-## Getting Started
+   - **Clothes:** 50% offline, 50% online
+   - **Cosmetics:** 58.85% offline, 46.15% online
+   - **Household Items:** 88.89% online
+   - **Meat:** 100% online
 
-Want to run this dashboard on your machine? Here's how you can get it up and running:
+6. **Item Type and Sales Mode**
+   - **Personal Care:** 80% offline
+   - **Fruits:** 25% offline, 75% online
+   - **Beverages:** 42.86% offline, 57.14% online
+   - **Cereal:** 66.67% online
+   - **Meat:** 100% online
 
-1. First, clone this repo:
-   ```bash
-   git clone https://github.com/yourusername/blinkit-dashboard.git
-   ```
+## Insights and Usage
 
-2. Install all the necessary dependencies:
-   ```bash
-   npm install
-   ```
+- **Geographical Analysis:** Track profitability by country and region, identifying top-performing markets and areas with growth potential.
+- **Sales Mode Comparison:** Compare the performance of online and offline sales channels for different item types.
+- **Profitability Breakdown:** Understand which countries and regions contribute the most to overall profits, and where there is room for improvement.
 
-3. Once everything is set up, you can launch the dashboard:
-   ```bash
-   npm start
-   ```
+## How to Use This Dashboard
 
-## How to Use It
+- **Filter by Item Type:** Drill down into specific categories like clothes, beverages, or household items.
+- **Geographical Focus:** Examine profitability across regions and countries to spot top performers and areas needing attention.
+- **Sales Mode Comparison:** Assess how online and offline channels perform for various products.
+- **Revenue & Cost Tracking:** Monitor revenue and costs to ensure profitability.
 
-- Play around with the filters on the left side of the dashboard. You can sort by outlet location, size, and item type to explore the data that matters most to you.
-- Hover over the charts and graphs to see the exact numbers and breakdowns.
-- Dive into different outlet types and item categories to find out where we’re doing well and where there’s room to grow.
+## Future Enhancements
 
-## Built With
-
-- **Power BI** for creating the visuals and dashboard.
-- **JavaScript/TypeScript** (if applicable) for building the web functionality.
-- **Node.js** (if applicable) for backend support.
-
-## What's Next?
-
-There are a lot of cool things we can do to improve this dashboard:
-
-- Integrating real-time sales data for live tracking.
-- Adding more metrics like profit margins or customer demographics.
-- Offering more filtering options, like region or product brand.
-
-## License
-
-This project is licensed under the MIT License. Check out the [LICENSE.md](LICENSE.md) file for more info.
+- **Real-Time Updates:** Incorporating real-time tracking of sales and profit trends.
+- **Advanced Filtering:** Adding more filtering options such as time periods and region-specific reports.
+- **Enhanced UI:** Introducing metrics on customer satisfaction and regional demand trends.
