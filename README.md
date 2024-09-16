@@ -57,6 +57,8 @@ Welcome to the Global Sales and Profit Dashboard, a Power BI project designed to
 - **Geographical Focus:** Examine profitability across regions and countries to spot top performers and areas needing attention.
 - **Sales Mode Comparison:** Assess how online and offline channels perform for various products.
 - **Revenue & Cost Tracking:** Monitor revenue and costs to ensure profitability.
+- 
+![image](https://github.com/user-attachments/assets/3b4468cd-809f-4ee6-9b8e-80301d3bcf15)
 
 ## Future Enhancements
 
