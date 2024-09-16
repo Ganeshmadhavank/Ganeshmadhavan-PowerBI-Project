@@ -52,6 +52,7 @@ Welcome to the **Blinkit Dashboard**! This project is designed to track and visu
      - **Item Type**
 
 ![image](https://github.com/user-attachments/assets/db1dddd7-a135-4bcd-8051-ead4d36d7089)
+![image](https://github.com/user-attachments/assets/ed7580cb-7315-48d5-872a-36e9c5bf8990)
 
 ## Getting Started
 
