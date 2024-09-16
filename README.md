@@ -51,6 +51,8 @@ Welcome to the **Blinkit Dashboard**! This project is designed to track and visu
      - **Outlet Size**
      - **Item Type**
 
+![image](https://github.com/user-attachments/assets/db1dddd7-a135-4bcd-8051-ead4d36d7089)
+
 ## Getting Started
 
 Want to run this dashboard on your machine? Here's how you can get it up and running:
